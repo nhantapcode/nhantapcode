@@ -4,7 +4,6 @@ I am currently studying Artificial Intelligence at FPT Univerisity Ho Chi Minh �
 
 🤚Connect with me:
 
-Facebook: https://www.facebook.com/nhan.the.35728
 Linkedin: https://www.linkedin.com/in/nh%C3%A2n-nh%C3%A2n-594a662b9/
 
 - 🔭 I'm currently during the internship period on FPT Software. 
