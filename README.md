@@ -24,6 +24,10 @@ Linkedin: https://www.linkedin.com/in/nh%C3%A2n-nh%C3%A2n-594a662b9/
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+🎓 Education:
+
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+
 
 🎶 Music:
 
