@@ -8,7 +8,7 @@ Linkedin: https://www.linkedin.com/in/nh%C3%A2n-nh%C3%A2n-594a662b9/
 
 - 🔭 I'm currently during the internship period on FPT Software. 
 - 🌱 I’m currently learning AI. 
-- ⚡ Fun fact: I have pasioning on coding and play game.
+- ⚡ Fun fact: I have pasioning on coding and do gym.
 
 💻 IDEs/Editors:
 
