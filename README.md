@@ -1,6 +1,6 @@
 ### Hi there, I'm Nhan👋
 
-I am currently studying Artificial Intelligence at FPT Univerisity Ho Chi Minh 🧑‍🎓 I am passionate about AI and researching AI technologies, especially NLP (Natural Language Processing).
+I am currently studying Artificial Intelligence at FPT University Ho Chi Minh 🧑‍🎓 I am passionate about AI and researching AI technologies, especially NLP (Natural Language Processing).
 
 🤚Connect with me:
 
